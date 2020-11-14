@@ -20,7 +20,7 @@ Assim que segue os links acima!! ;)
 
 #### 1º Passo: :fire: :fire:
 
-Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
+Vá até a página do Visual [Studio Code](https://code.visualstudio.com/docs/languages/typescript?WT.mc_id=javascript-0000-gllemos) -> Docs - Languages -> TypeScript -> tsconfig.json (conforme segue a imagem abaixo):
 
 ![alt tag](https://uploaddeimagens.com.br/images/000/921/644/original/pic_1.png?1495141187)
 
@@ -48,7 +48,7 @@ Abre o arquivo: tasks.json e altere para as seguintes linhas:
 
 ```
 {    
-  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // See https://go.microsoft.com/fwlink/?LinkId=733558&WT.mc_id=javascript-0000-gllemos
   // for the documentation about the tasks.json format
   "version": "2.0.0",
   "tasks": [
